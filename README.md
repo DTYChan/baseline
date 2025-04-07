@@ -98,4 +98,4 @@ HyDE improves retrieval by:
 The evaluation framework provides:
 - Quantitative metrics for system performance
 - Qualitative feedback for answer quality
-- Comparative analysis between different retrieval approaches 
+- Comparative analysis between different retrieval approaches
